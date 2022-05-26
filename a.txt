@@ -1,1 +1,3 @@
-system.outprintln("Olá Mundo");
+System.outprintln("Olá Mundo");
+
+String nome  = "João";
